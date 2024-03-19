@@ -1,0 +1,40 @@
+h1 {
+    color:blue;
+    font-size: 24px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+
+.hermione {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.weasley {
+    color:pink;
+}
+
+#id55 {
+    color:brown;
+    background-color: blanchedalmond;
+}
+
+#navbar {
+    /* border: solid 2px red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.navbutton {
+    /* border: solid blue 1px; */
+    background-color: azure;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+    text-decoration: none;
+}
